@@ -1,12 +1,12 @@
 {
   "name": "@libtommy2024/in-iste-nisi-at",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "OraliePham",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -56,5 +56,10 @@
     "api-chatfb": "^1.0.7",
     "api-chatfb-test": "^1.0.6",
     "api-facebooknew": "^1.0.4"
-  }
+  },
+  "homepage": "https://github.com/libtommy2024/in-iste-nisi-at/#readme",
+  "bugs": {
+    "url": "https://github.com/libtommy2024/in-iste-nisi-at/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
